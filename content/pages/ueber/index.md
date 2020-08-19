@@ -8,6 +8,6 @@ description = "Seite über mich"
 
 ## Yannic Blattmann
 
-info@lernblog.ch
+yannic.blattmann@bwdbern.ch
 
 Beschreibung, wer ich bin...
