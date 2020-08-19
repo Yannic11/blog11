@@ -9,5 +9,3 @@ description = "Seite über mich"
 ## Yannic Blattmann
 
 yannic.blattmann@bwdbern.ch
-
-Beschreibung, wer ich bin...
