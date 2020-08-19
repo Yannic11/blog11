@@ -2,7 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = ""
+image = "/media/buv_titel_ohne_schrift_700x400.jpg__700x400_q90_crop_subsampling-2_upscale.jpg"
 color = ""
 +++
-
