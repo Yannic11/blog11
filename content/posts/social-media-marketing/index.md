@@ -6,6 +6,8 @@ pinned = false
 image = "getty_488305762_333699.jpg"
 description = ""
 +++
+**Social-Media-Marketing:**
+
 Das Thema Social-Media-Marketing interessiert mich schon lange und jetzt habe ich die Gelegenheit, mehr darüber zu erfahren und selbst einige Erfahrungen zu sammeln.
 
 * Internetseiten nach Wunsch der Kunden gestalten
