@@ -6,6 +6,4 @@ description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Yannic Blattmann
-
-yannic.blattmann@bwdbern.ch
+## Janis
