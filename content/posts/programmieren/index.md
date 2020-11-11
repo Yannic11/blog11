@@ -1,6 +1,6 @@
 +++
 title = "Programmieren "
-date = "2020-11-11"
+date = "2020-11-04"
 draft = false
 pinned = false
 image = "90801138_1502722233-768x432.jpg"
